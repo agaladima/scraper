@@ -1,0 +1,17 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "for the scraper project",
+  "main": "scraper.js",
+  "dependencies": {
+    "json2csv": "^3.11.4",
+    "scrape-it": "^3.3.3",
+    "website-scraper": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arum Galadima",
+  "license": "MIT"
+}

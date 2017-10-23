@@ -1,8 +1,6 @@
 //json2csv and cheerio
 //Require https module
 const fs = require('fs');
-const {URL, URLSearchParams} = require('url');
-const myURL = new URL(`http://shirts4mike.com/shirts.php`);
 const url = `http://shirts4mike.com/shirts.php`;
 const urlMain = `http://shirts4mike.com/`;
 const priceData = [];
